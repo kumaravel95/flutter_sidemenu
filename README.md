@@ -1,8 +1,13 @@
-# material
-
-A new Flutter project.
-
 ## Getting Started
+Flutter side menu is simple flutter application implemented with side panel
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+## Demo
+
+
+## Installing, Setup and Run
+Kindly follow the simple steps available in the below URL.
+https://flutter.io/docs/get-started/editor?tab=vscode
+
+## Contributing
+Contributing to this project is highly welcome!
+
