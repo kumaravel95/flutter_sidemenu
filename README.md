@@ -6,8 +6,8 @@ A demo of this flutter application is available in below URL.
 https://youtu.be/cbNB6PwKkDk
 
 ## Installing, Setup and Run
-Kindly follow the simple steps available in the below URL.
-https://flutter.io/docs/get-started/editor?tab=vscode
+Kindly follow the simple steps available in official flutter website.
+https://flutter.io/docs/get-started/install
 
 ## Contributing
 Contributing to this project is highly welcome!
