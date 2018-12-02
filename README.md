@@ -12,3 +12,5 @@ https://flutter.io/docs/get-started/install
 ## Contributing
 Contributing to this project is highly welcome!
 
+## License
+Licensed under the [MIT](LICENSE.txt) License.
