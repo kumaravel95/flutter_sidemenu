@@ -2,7 +2,7 @@
 Flutter side menu is simple flutter application implemented with side panel
 
 ## Demo
-A demo of this flutter application is available in below URL.
+A quick demo of this flutter application is available in below URL.
 https://youtu.be/cbNB6PwKkDk
 
 ## Installing, Setup and Run
